@@ -7,5 +7,7 @@ Some basic feature engineering techniques are used including Standardlization, t
 
 
 *I have not try too much on tuning hyperparameters and models
+
 *This is a very simple demo to have a quick review of how to use sklearn
+
 *No Golden feature founded
