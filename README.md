@@ -1,13 +1,6 @@
-# Kaggle-Starter
-This is one of the project on Kaggle: https://www.kaggle.com/iabhishekofficial/mobile-price-classification
-The main aim of this notebook is help me review quickly some basic techniques in sklearn
-I found that GradientBoosting is really amazing even without any feature engineering and feature selection
-Some basic feature engineering techniques are used including Standardlization, though which seems useless.
+# Ghoul Ghost and Goblin competition on Kaggle
+Some basic code including some basic data preprocessing steps, however, it seems 
+dummy+standardlization is better than standardlization. The order of the data preprocessing is 
+impportant to some extent.
 
-
-
-*I have not try too much on tuning hyperparameters and models
-
-*This is a very simple demo to have a quick review of how to use sklearn
-
-*No Golden feature founded
+Another thing is that GBoosting works not very well, even worse than logistic regression without tuning parameters on cross-validation.
